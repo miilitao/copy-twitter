@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Hind+Siliguri:wght@500&family=Mukta:wght@500&family=Playfair+Display:wght@800&family=Sarala:wght@400;700&display=swap');
+
+body {
+  font-family: 'Mukta', sans-serif;
+  resize: none; 
+}
+header#headline {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  margin-top: -20px;  
+}
+
+header h3 {
+  position: relative;
+  margin-right: 10px;
+  font-size: 22px;
+
+}
+
+span#headline-input  {
+  position: relative;
+  right: -290px;
+  top: 3px;
+}
+
+header input {
+  font-size: 1rem;
+  font-family: 'Libre Franklin', sans-serif;
+  background-color: rgba(255, 249, 249, 0.715);
+  border-radius: 6rem 6rem 6rem 6rem;
+  height: 43px;
+  width: 350px;
+  border: none;
+  
+}
+
+span.text-search-tab {
+  position: relative;
+  top: -6.5px;
+  font-size: 1.3rem;
+  line-height: 3.6rem;
+  left: 20px;
+  
+
+}
+
+div#search-tab {
+  position: relative;
+  margin-top: 10px;
+  background-color: rgb(255, 255, 255);
+  width: 200px;
+  left: 130px;
+}
+
+input.button-one {
+  width: 230px;
+  height: 50px;
+  font-family: sans-serif;
+  font-size: 17px;
+  color: white;
+  border-radius: 5rem 5rem 5rem 5rem;
+  background-color: rgb(56, 160, 250);
+  border: none;
+
+}
+
+footer.space-center {
+  position: relative;
+  left: 24.5rem;
+  top: -32rem;
+  width: 580px;
+  background-color: rgb(255, 255, 255);
+  border: 0.3px solid rgb(235, 235, 235);
+  padding: 5px;
+}
+
+div.navegation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+input#first-button-center {
+  width: 290px;
+  height: 45px;
+  border: none;
+  background-color: white;
+  font-family: 'Hind Madurai', sans-serif;
+  font-size: 1rem;
+  color: rgb(79, 79, 79);
+}
+
+input#second-button-center  {
+  width: 290px;
+  height: 45px;
+  border: none;
+  background-color: white;
+  font-family: 'Hind Madurai', sans-serif;
+  font-size: 1rem;
+  color: rgb(79, 79, 79);
+}
+
+textarea {
+  border: none;
+  resize: none;
+  font-family: sans-serif;
+  font-size: 1rem;
+  width: 80%; 
+}
+
+textarea#ask {
+  position: relative;
+  top: -50px;
+  left: 10px;
+  margin-left: 70px;
+  font-size: 20px;
+
+}
+
+div.icons-center {
+  display: flex;
+  padding-left: 15px;
+
+}
+
+img.img-one {
+  position: relative;
+  margin-left: 40px;
+  top: -30px;
+ 
+}
+img.img-two {
+  position: relative;
+  margin-left: 16px;
+  top: -30px;
+  
+}
+img.img-three {
+  position: relative;
+  margin-left: 16px;
+  top: -30px;
+  
+}
+img.img-four {
+  position: relative;
+  margin-left: 16px;
+  top: -30px;
+  
+}
+img.img-five {
+  position: relative;
+  margin-left: 16px;
+  top: -30px;
+  
+}
+img.img-six {
+  position: relative;
+  margin-left: 16px;
+  top: -30px;
+}
+
+button#button-inside-forms {
+  position: relative;
+  left: 470px;
+  top: -75px;
+  background-color: rgb(66, 166, 253);
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+  border: none;
+  border-radius: 5rem 5rem 5rem 5rem;
+  height: 35px;
+  width: 100px;
+}
+
+form.form {
+  height: 120px;
+}
